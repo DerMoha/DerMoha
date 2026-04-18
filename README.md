@@ -1,6 +1,6 @@
 # Hi, I'm Moha
 
-I build apps for iOS, Android, and Web, sometimes I mess around with Minecraft Plugins and servers.
+I build apps for iOS, Android, Web, and sometimes I mess around with Minecraft Plugins and servers.
 
 ---
 
