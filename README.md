@@ -32,28 +32,18 @@ distributed as a beta through TestFlight.
 
 `Swift` `SwiftUI` `SwiftData` `PhotoKit`
 
-### [VLM Safety Tax](https://github.com/DerMoha/VLM-Safety-Tax)
-Reproducible evaluation pipeline for my bachelor's thesis benchmarking
-14 open-source Vision-Language Models on HPC infrastructure.
-
-`Python` `SLURM` `vLLM` `HELM`
-
-### [jtxBoard Desktop](https://github.com/DerMoha/jtx-desktop)
-Cross-platform desktop client with local persistence and CalDAV sync,
-including automated native packaging for Windows, Linux and macOS.
-
-`JVM` `Compose Desktop` `SQLite` `CalDAV` `Gradle`
-
 ## Tech I work with
 
 **Backend:** Java · Spring Boot · Kafka · FastAPI · Neo4j · Qdrant  
 **Web:** TypeScript · React · Next.js · Convex  
 **Mobile:** Flutter · SwiftUI  
 **Infrastructure:** Docker · Kubernetes · Argo CD · GitHub Actions  
-**AI:** RAG · Docling · Gemini · VLMs · vLLM
+**AI:** RAG · Docling · Gemini
 
 ## More Projects
 
+[jtxBoard Desktop](https://github.com/DerMoha/jtx-desktop) ·
 [FlowForge](https://github.com/DerMoha/FlowForge) ·
+[HoopTracker](https://github.com/DerMoha/HoopTracker) ·
 [HomeboxApp](https://github.com/DerMoha/homeboxApp) ·
-[HoopTracker](https://github.com/DerMoha/HoopTracker)
+[wantr](https://github.com/DerMoha/wantr)
