@@ -1,52 +1,59 @@
-# Hi, I'm Moha
+# Moha
 
-I build apps for iOS, Android, Web, and sometimes I mess around with Minecraft Plugins and servers.
+Computer Science student @ LMU Munich and software developer.
+I build backend systems, full-stack applications, mobile apps and applied AI projects.
 
----
+Currently working mostly with Java/Spring, TypeScript/React,
+Python/FastAPI and cloud-native tooling.
 
-## Stats
+## Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DerMoha&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DerMoha&layout=compact)
+### AI Impersonation Game · [Live Demo ↗](https://ai-game.brokenmoha.de/)
+Real-time multiplayer game with AI players, server-authoritative game state,
+authentication, rate limiting and persistent player progression.
 
----
-
-##  Pinned Projects
+`Next.js` `TypeScript` `Convex` `Vercel` `AI`
 
 ### [Sophis](https://github.com/DerMoha/Sophis)
-> A calorie tracking app, made for my girlfriend.
-> `Dart, Flutter`
+Local-first nutrition tracker with AI-assisted food recognition and
+on-device ML/OCR label recognition in development.
+
+`Flutter` `Dart` `SQLite / Drift` `Gemini`
 
 ### [NetworkStorage](https://github.com/DerMoha/NetworkStorage)
-> A Minecraft Paper Plugin that allows adding Chests to a network and making them accessible from everywhere through terminals.
-> `Java, Maven`
+Java server plugin for networked storage with robust SQLite persistence,
+schema migrations, verified backups, automated tests and CI releases.
+
+`Java 21` `Maven` `SQLite` `JUnit` `GitHub Actions`
 
 ### [PhotoSoap](https://github.com/DerMoha/PhotoSoap)
-> Photo cleanup for iPhone with fast swipe reviews, simple stats, and streak-based progress.
-> `Swift, SwiftUI, iOS`
+Native iOS app for quickly reviewing and cleaning up photo libraries,
+distributed as a beta through TestFlight.
 
-### [homeboxApp](https://github.com/DerMoha/homeboxApp)
-> Mobile App for homebox inventory built using React Native.
-> `TypeScript, React Native`
+`Swift` `SwiftUI` `SwiftData` `PhotoKit`
 
-### [HoopTracker](https://github.com/DerMoha/HoopTracker)
-> An app to track your basketball shots.
-> `Kotlin, Android`
+### [VLM Safety Tax](https://github.com/DerMoha/VLM-Safety-Tax)
+Reproducible evaluation pipeline for my bachelor's thesis benchmarking
+14 open-source Vision-Language Models on HPC infrastructure.
 
-### [wantr](https://github.com/DerMoha/wantr)
-> `Dart, Flutter`
+`Python` `SLURM` `vLLM` `HELM`
 
----
+### [jtxBoard Desktop](https://github.com/DerMoha/jtx-desktop)
+Cross-platform desktop client with local persistence and CalDAV sync,
+including automated native packaging for Windows, Linux and macOS.
 
-## Tech Stack
+`JVM` `Compose Desktop` `SQLite` `CalDAV` `Gradle`
 
-**Languages:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F55413?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+## Tech I work with
 
-**Frameworks:**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-F55413?style=flat-square&logo=swiftui&logoColor=white)
+**Backend:** Java · Spring Boot · Kafka · FastAPI · Neo4j · Qdrant  
+**Web:** TypeScript · React · Next.js · Convex  
+**Mobile:** Flutter · SwiftUI  
+**Infrastructure:** Docker · Kubernetes · Argo CD · GitHub Actions  
+**AI:** RAG · Docling · Gemini · VLMs · vLLM
+
+## More Projects
+
+[FlowForge](https://github.com/DerMoha/FlowForge) ·
+[HomeboxApp](https://github.com/DerMoha/homeboxApp) ·
+[HoopTracker](https://github.com/DerMoha/HoopTracker)
